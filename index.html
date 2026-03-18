@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OLLTC - Our Lady of Lourdes Technological College</title>
+    <script type="module" crossorigin src="./assets/index-CQJnikpn.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-7rjqWCFv.css">
+  <style>
+    #scroll-progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0%;
+      height: 3px;
+      background: linear-gradient(90deg, #1E40AF, #3B82F6);
+      z-index: 9999;
+      transition: width 0.08s linear;
+      border-radius: 0 2px 2px 0;
+    }
+  </style>
+  </head>
+  <body>
+    <div id="scroll-progress-bar"></div>
+    <div id="root"></div>
+    <script>
+      (function () {
+        const bar = document.getElementById('scroll-progress-bar');
+        function updateProgress() {
+          const scrollTop = window.scrollY || document.documentElement.scrollTop;
+          const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+          const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+          bar.style.width = progress + '%';
+        }
+        window.addEventListener('scroll', updateProgress, { passive: true });
+        updateProgress();
+      })();
+    </script>
+  </body>
+</html>
