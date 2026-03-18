@@ -32878,7 +32878,7 @@ function LN() {
             children: x.jsx("img",
              {
               "code-path": "src/components/sections/WelcomeSection.tsx:11:15",
-              src: "./images/welcome.jpg",
+              src: "https://www.facebook.com/reel/845781410826746",
               alt: "School classroom",
               className: "w-full h-[300px] md:h-[400px] object-cover transition-transform duration-500 group-hover:scale-105"
             })
