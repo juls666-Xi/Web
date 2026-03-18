@@ -32505,10 +32505,12 @@ function ON() {
            {
             "code-path": "src/components/layout/Header.tsx:34:13",
             className: "w-10 h-10 bg-primary rounded-lg flex items-center justify-center transition-transform group-hover:scale-105",
-            children: x.jsx(Ty,
+            children: x.jsx("img",
              {
               "code-path": "src/components/layout/Header.tsx:35:15",
-              className: "w-6 h-6 text-white"
+              src: "/images/icon.png",
+              alt: "OLLTC icon",
+              className: "w-6 h-6"
             })
           }),
           x.jsxs("div",

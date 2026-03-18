@@ -1,0 +1,23 @@
+;/*FB_PKG_DELIM*/
+
+__d("FBNucleusQuotesFilled20Icon.react",["react"],(function(t,n,r,o,a,i,l){"use strict";var e,s=e||(e=o("react"));function u(e){return s.jsxs("svg",babelHelpers.extends({viewBox:"0 0 20 20",width:"1em",height:"1em",fill:"currentColor"},e,{children:[e.title!=null&&s.jsx("title",{children:e.title}),e.children!=null&&s.jsx("defs",{children:e.children}),s.jsx("path",{d:"M11 11.25v.5a4.25 4.25 0 1 0 2.271-3.762c.182-.329.394-.628.632-.895.878-.984 2.168-1.593 3.847-1.593a.75.75 0 0 0 0-1.5c-2.07 0-3.78.766-4.966 2.095C11.607 7.414 11 9.228 11 11.25zm-2 .5a4.25 4.25 0 0 1-8.5 0v-.5c0-2.022.607-3.836 1.784-5.155C3.469 4.765 5.179 4 7.25 4a.75.75 0 0 1 0 1.5c-1.68 0-2.97.61-3.847 1.593-.238.267-.45.566-.632.895A4.25 4.25 0 0 1 9 11.75z"})]}))}u.displayName=u.name+" [from "+i.id+"]",u._size=20,u._isSVG=!0;var c=u;l.default=c}),98);
+__d("FDSAtSignFilled20Icon",["cr:14200"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14200")}),98);
+__d("FDSBuildingCityFilled20Icon",["cr:13958"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:13958")}),98);
+__d("FDSCalendarFilled12Icon",["cr:14612"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14612")}),98);
+__d("FDSCalendarFilled12PNGIcon.react",["ix","fbicon"],(function(t,n,r,o,a,i,l,s){"use strict";var e=o("fbicon")._(s("481112"),12),u=e;l.default=u}),98);
+__d("FDSCategoriesFilled20Icon",["cr:14668"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14668")}),98);
+__d("FDSCommentSwishFilled20Icon",["cr:14778"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14778")}),98);
+__d("FDSDollarCircleFilled12Icon",["cr:14842"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14842")}),98);
+__d("FDSFeedFilled20Icon",["cr:14918"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:14918")}),98);
+__d("FDSGroupFilled12Icon",["cr:15087"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15087")}),98);
+__d("FDSGroupFilled12PNGIcon.react",["ix","fbicon"],(function(t,n,r,o,a,i,l,s){"use strict";var e=o("fbicon")._(s("485085"),12),u=e;l.default=u}),98);
+__d("FDSMortarBoardFilled20Icon",["cr:15306"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15306")}),98);
+__d("FDSPinFilled12Icon",["cr:15426"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15426")}),98);
+__d("FDSPostCheckmarkFilled20Icon",["cr:15473"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15473")}),98);
+__d("FDSQuotesFilled20Icon",["cr:15565"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15565")}),98);
+__d("FDSQuotesFilled20PNGIcon.react",["ix","fbicon"],(function(t,n,r,o,a,i,l,s){"use strict";var e=o("fbicon")._(s("560139"),20),u=e;l.default=u}),98);
+__d("FDSStarFilled12Icon",["cr:15696"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15696")}),98);
+__d("FDSTicketFilled12Icon",["cr:15786"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15786")}),98);
+__d("FDSTicketFilled20Icon",["cr:15788"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15788")}),98);
+__d("FDSTrendingArrowFilled20Icon",["cr:15810"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15810")}),98);
+__d("FDSVideoFilled12Icon",["cr:15854"],(function(t,n,r,o,a,i,l){"use strict";l.default=n("cr:15854")}),98);

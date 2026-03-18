@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("BaseIsDecorativeContext",["react"],(function(t,n,r,o,a,i,l){"use strict";var e,s=e||(e=o("react")),u=s.createContext(void 0);l.default=u}),98);
+__d("XPlatReactEnvironment",["gkx"],(function(t,n,r,o,a,i,l){"use strict";function e(){return r("gkx")("26340")}function s(){return r("gkx")("22979")}function u(){return r("gkx")("26341")}function c(){return r("gkx")("4008")}function d(){return r("gkx")("26342")}function m(){return r("gkx")("11826")}function p(){return!0}l.isFRLEnvironment=e,l.isInstagramEnvironment=s,l.isMWAEnvironment=u,l.isFBIGNativeEnvironment=c,l.isImagineEnvironment=d,l.isThreadsEnvironment=m,l.isWeb=p}),98);
+__d("CometFeedStory_enable_post_permalink_white_space_click.relayprovider",["XPlatReactEnvironment","gkx"],(function(t,n,r,o,a,i,l){"use strict";function e(){return o("XPlatReactEnvironment").isWeb()&&r("gkx")("18978")}l.get=e}),98);
